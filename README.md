@@ -1,9 +1,3 @@
-Perfect 👍
-Below is a **ready-to-use, professional README.md** that you can **directly copy–paste into GitHub**.
-It also **includes the dashboard preview section** (you’ll just add screenshots in the folder).
-
----
-
 # 📊 Sales Performance Dashboard – 2026 (Power BI)
 
 ## 🔍 Project Overview
